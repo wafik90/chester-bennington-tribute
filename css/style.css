@@ -1,0 +1,101 @@
+body {
+  text-align: center;
+  min-width:200px;
+  background-color: #000000;
+  color: #FFFFFF
+}
+
+#main{
+  margin: -5px;
+  padding:0.5px;
+  border:5px solid;
+  border-radius:20px;
+  background:#202020;
+}
+
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+  margin-top:20px;
+  margin-bottom: 15px;
+  border-radius:20px;
+}
+
+#img-div{
+  margin: -5px;
+  margin-top: 15px;
+  width: 100%;
+  border: 5px solid white;
+  border-radius: 20px;
+  background: #202020;
+}
+
+#img-caption{
+  margin: 10px;
+  font-family: cambria;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+#tribute-info {
+  position: relative;
+  font-family: cambria;
+  font-size: 17px; 
+  margin: -5px;
+  margin-top: 0px;
+  border: 5px solid white;
+  border-radius: 20px;
+  background: #202020;
+}
+
+ul{
+  max-width:1000px;
+  margin:0 auto;
+  text-align:left;
+}
+
+li{
+  margin: 20px;
+}
+
+blockquote{
+  font-family: karim;
+  font-style: italic;
+}
+
+p {
+  text-align:center;
+  font-size:30px;
+}
+
+p1 {
+  font-family: cambria;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: cambria;
+  Font-size: 70px;
+  font-weight: bold;
+}
+
+h2{
+  color: #000000;
+  font-family: cambria;
+  font-size: 15px;
+  font-style: italic;
+  color: #FFFFFF;
+  margin-top:-25px;
+}
+
+a {
+  color:red;
+}
+
+h3 {
+  font-family: cambria;
+  font-size: 15px;
+}
